@@ -48,3 +48,5 @@ All product images are generated CSS gradients so the demo runs fully offline. S
 ## License
 
 MIT — built as a frontend demo.
+
+Mukeshimana Kevin  and Ntwari Balinda Espoir
